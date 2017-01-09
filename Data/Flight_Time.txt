@@ -1,0 +1,20 @@
+Singapore, Changi Airport - Malaysia, KL International Airport
+100
+Singapore, Changi Airport - Indonesia, Soekarno Hatta Airport
+150
+Singapore, Changi Airport - Philiphines, MNL International Airport
+335
+Singapore, Changi Airport - Thailand, Suvarnabhumi Airport
+225
+Malaysia, KL International Airport - Indonesia, Soekarno Hatta Airport
+205
+Malaysia, KL International Airport - Philiphines, MNL International Airport
+345
+Malaysia, KL International Airport - Thailand, Suvarnabhumi Airport
+210
+Indonesia, Soekarno Hatta Airport - Philiphines, MNL International Airport
+415
+Indonesia, Soekarno Hatta Airport - Thailand, Suvarnabhumi Airport
+335
+Philiphines, MNL International Airport - Thailand, Suvarnabhumi Airport
+325
